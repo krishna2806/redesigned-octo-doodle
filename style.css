@@ -1,0 +1,39 @@
+.header-div{
+font-size: 30px;
+width: 100%;
+box-shadow: 5px 5px 18px yellowgreen;
+}
+.head_div{
+float: none;
+background-color: teal;
+border-radius: 10px;
+box-shadow: 5px 5px 18px chocolate;
+padding: 25px;
+color: coral;
+}
+.hdiv{
+font-size: 20px;
+padding: 10px;
+color: gold;
+background-color: steelblue;
+}
+.b1{
+ box-shadow: 5px 5px 20px purple;
+font-size: 20px;
+}
+.ftr{
+position: fixed;
+font-size: 20px;
+color:wheat;
+bottom: 0;
+background-color: peru;
+width: 100%;
+text-align: center;
+line-height: 3;
+}
+canvas{
+border: 5px dashed royalblue;
+border-radius:20px;
+box-shadow: 5px 5px 18px green;
+margin-top: 250px;
+}
